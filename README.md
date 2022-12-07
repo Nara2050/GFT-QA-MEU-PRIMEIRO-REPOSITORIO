@@ -1,1 +1,4 @@
-![image](https://user-images.githubusercontent.com/98029687/205132382-248ab00a-85a1-4458-9c33-e861cfb2db2b.png)
+# Meu Primeiro Repositório
+Prática de desafio DIO para o meu primeiro repositório.
+
+![image](https://hermes.digitalinnovation.one/files/assets/baf58331-072e-43e0-a414-cea934844a90.png)
