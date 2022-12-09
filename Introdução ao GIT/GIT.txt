@@ -1,0 +1,12 @@
+O GIT é uma plataforma mundial de sincronização e controle de versões de código fonte.
+Seu principal objetivo é reunir e facilitar o desenvolvimento de software de forma colaborativa e otimizada.  
+
+Comandos Básicos do GIT:
+
+git clone - clonar a pasta do repositório do GIT dentro do sistema operacional
+git status - verificar últimas informações 
+git commit -m - confirma alteração através de uma mensagem de texto
+git push - sincroniza repositório local com o repositório no GITHUB
+git pull - sicroniza o repositório no GITHUB com o repositório local
+
+
